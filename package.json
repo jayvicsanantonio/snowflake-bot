@@ -23,16 +23,16 @@
   "dependencies": {
     "discord.js": "^13.8.0",
     "dotenv": "^8.2.0",
-    "express": "^4.21.2",
-    "express-session": "^1.18.1",
+    "express": "^4.22.0",
+    "express-session": "^1.19.0",
     "mongodb": "^4.1.4",
-    "node-html-to-image": "^3.2.4",
-    "passport": "^0.5.0",
+    "node-html-to-image": "^5.0.0",
+    "passport": "^0.6.0",
     "passport-discord": "^0.1.4",
-    "pug": "^3.0.3"
+    "pug": "^3.0.4"
   },
   "devDependencies": {
-    "node-sass": "^7.0.1",
+    "node-sass": "^9.0.0",
     "uglify-js": "^3.14.3"
   },
   "engines": {
